@@ -1,0 +1,16 @@
+{
+  "name": "ai-interview-agent",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
+    "dev:frontend": "cd project/frontend && npm run dev",
+    "dev:backend": "cd project/backend && npm run dev",
+    "build": "cd project/frontend && npm run build",
+    "start": "cd project/backend && npm start",
+    "install:all": "npm install && cd project/frontend && npm install && cd ../backend && npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
