@@ -62,4 +62,3 @@ npm start
 
 
 
-Do you want me to create a **ready-to-use README.md file** for your AI Interview Agent project (with placeholder links/screenshots), so you can just drop it into your repo?
