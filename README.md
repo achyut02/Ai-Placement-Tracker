@@ -4,9 +4,7 @@
 
 ## 📌 Overview
 
-Brief description of your project. Example:
-
-> The AI Interview Agent is a smart mock interview platform that uses AI (GPT + Video/Voice analysis) to simulate real technical and HR interviews. It provides adaptive questioning, instant feedback, and personalized suggestions to help students prepare for placements.
+ The AI Interview Agent is a smart mock interview platform that uses AI (GPT + Video/Voice analysis) to simulate real technical and HR interviews. It provides adaptive questioning, instant feedback, and personalized suggestions to help students prepare for placements.
 
 ## 🎯 Features
 
